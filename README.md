@@ -90,7 +90,7 @@ Availability Zones, or AWS Regions.
      
 
 <img width="971" height="555" alt="image" src="https://github.com/user-attachments/assets/b7d22766-3a60-4239-bd74-db7d467d2d2d" />
-                3: Configure Subnets
+             
 
  4: Setting Internet gateway              
       
